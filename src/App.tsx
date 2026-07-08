@@ -43,7 +43,7 @@ function App() {
             <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
-                Explore Vite and its features
+                Explore Vite
               </a>
             </li>
             <li>
@@ -58,7 +58,7 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>Connect with BOT</h2>
+          <h2>Connect with us</h2>
           <p>Join the Vite community</p>
           <ul>
             <li>
